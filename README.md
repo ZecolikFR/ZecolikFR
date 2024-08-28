@@ -1,6 +1,6 @@
 ## ZecolikFR
 
-### 🔧 Mes compétences
+### 🔧 Mes langages
 
 - **Développement de plugins** : Principalement pour **PocketMine-MP** 🎮.
 - **Bots Discord** : Création de bots avec **Discord.js** 🤖.
@@ -11,7 +11,7 @@
   - **Java** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java logo" width="20" height="20"/> : Pour des projets complexes nécessitant une grande extensibilité.
   - **Python** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python logo" width="20" height="20"/> : Pour divers scripts et automatisations.
 
-### 💻 Environnements de développement
+### 💻 IDE
 
 - **PhpStorm** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" alt="PhpStorm logo" width="20" height="20"/> : Mon IDE principal pour les projets PHP.
 - **VSCode** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode logo" width="20" height="20"/> : Mon éditeur polyvalent pour JavaScript, Go, et autres langages.
