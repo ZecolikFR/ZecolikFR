@@ -11,7 +11,6 @@ Je me nomme Stefan, mais vous me connaissez peut-être sous le pseudo de **Zecol
   - **Go** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go logo" width="20" height="20"/> : Pour des projets nécessitant des performances élevées et de la concurrence.
   - **PHP** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP logo" width="20" height="20"/> : Pour le développement backend et les plugins PocketMine-MP.
   - **Java** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java logo" width="20" height="20"/> : Pour des projets complexes nécessitant une grande extensibilité.
-  - **HTML/CSS** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML logo" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS logo" width="20" height="20"/> : Pour créer des interfaces utilisateur et des styles.
   - **Python** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python logo" width="20" height="20"/> : Pour divers scripts et automatisations.
   - Et d'autres selon les besoins des projets 🛠️.
 
