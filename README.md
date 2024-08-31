@@ -1,7 +1,6 @@
 ## ZecolikFR
 
-### 🔧 Je parle c'est langage la.
-
+Salut, je suis un developpeur papier maché trempé dans une feuille d'ibiscus.
 - **Langages utilisés** :
   - **JavaScript** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="20" height="20"/>
   - **Go** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go logo" width="20" height="20"/> 
